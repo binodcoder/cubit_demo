@@ -1,8 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_cubit/flutter_cubit.dart';
-
 import 'package:cubit_demo/cubit/counter_cubit.dart';
 
 class MyApp extends StatefulWidget {
